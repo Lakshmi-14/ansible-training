@@ -1,0 +1,4 @@
+---
+# handlers file for myapache-12dec
+- name: restart apache
+  service: name=httpd state=restarted

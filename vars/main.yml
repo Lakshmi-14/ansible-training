@@ -1,0 +1,3 @@
+---
+# vars file for myapache-12dec
+package_name: httpd
